@@ -1,0 +1,5 @@
+Variables: son contendedores que pueden alojar distintos tipos de cosas, letras, palabras, oraciones, números y booleanos.
+Strings: son conjuntos de letras, palabras u oraciones, contenidas en una variable.
+Funciones: son bloques que ejecutan cierta acción, pueden tener argumentos los cuales se enviarán al llamar la función y serán utilizados dentro de la misma para realizar dicha acción, como también pueden o no retornar un valor, si retornan un valor específico deberán contener la palabra reservada "return".
+Declaraciones if: son declaraciones que responden a una condición, dependiendo de esta, si es verdadera ejecutará una acción y si es falsa, otra acción o ninguna.
+Valores booleanos: responden a dos posibles valores "true" o "false". 
