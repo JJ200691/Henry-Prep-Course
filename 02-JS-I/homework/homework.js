@@ -119,7 +119,7 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num % 2 == 0) {
+  if (num % 2 === 0) {
     return true;
   } else {
     return false;
@@ -130,7 +130,7 @@ function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num % 2 != 0) {
+  if (num % 2 !== 0) {
     return true;
   } else {
     return false;
@@ -251,7 +251,7 @@ function esVocal(letra) {
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
   // Si no es vocal, tambien debe devolver "Dato incorrecto".
   //Escribe tu código aquí
-  if (letra.length == 1) {
+  if (letra.length === 1) {
     if (letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u") {
       return "Es vocal";
     } else {
@@ -302,3 +302,4 @@ module.exports = {
   deEuroAdolar,
   esVocal,
 };
+
