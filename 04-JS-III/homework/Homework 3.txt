@@ -1,1 +1,1 @@
-Arrays: Son listas contenedoras de elementos, estos elementos pueden ser números, strings, booleanos, incluso otros arrays.
+Arrays: son listas contenedoras de elementos, estos elementos pueden ser números, strings, booleanos, incluso otros arrays.

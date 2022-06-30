@@ -1,0 +1,6 @@
+Objetos: representan a los objetos de la vida real, con las propiedades y comportamientos que los caracterizan. También son una colección de datos como los arreglos pero a diferencia de estos su indice está representado por strings (keys) que contienen un valor (value).
+Propiedades: las propiedades son las caracteristicas del objeto en si, por ejemplo el objeto "Computadora" tendrá como propiedades "procesador", "RAM", "dimensiones", etc. puede ser cualquier tipo de dato incluso arreglos u otros objetos.
+Métodos: son las funciones declaradas dentro del objeto, representan el comportamiento del mismo en la vida real.
+Bucle for in: se utiliza para poder recorrer y mostrar las propiedades del objeto ya que el bucle for comun no funcionaria debido a que no tenemos un indice numérico en los objetos.
+Notación de puntos vs notación de corchetes: la notación de puntos se utiliza indicando primero el nombre del objeto, un punto y luego la propiedad que queremos obtener (objeto.propiedad). La notación de corchetes se indica el nombre del objeto y entre corchetes el nombre de la propiedad entre comillas objeto["propiedad"].
+ 
