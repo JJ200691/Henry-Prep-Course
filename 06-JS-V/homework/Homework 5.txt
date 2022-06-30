@@ -1,0 +1,2 @@
+Prototype: el prototype hace referencia a una plantilla madre de los objetos, los métodos creados con Class.prototype podrán ser utilizados en todos los objetos que se creen a partir de la clase.
+Constructors: es un método a través del cual puedo crear objetos con las caracteristicas deseadas, cuando yo cree cierto objeto haré uso de ese método para darle valor a sus propiedades y poder instanciarlo.
