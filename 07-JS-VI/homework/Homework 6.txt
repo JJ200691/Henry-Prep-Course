@@ -1,0 +1,1 @@
+Callbacks: básicamente consisten en enviar funciones como argumentos de otra funciones. Cuando invoque dicha función, además de los argumentos que pueda enviar (strings, números, booleanos) también se enviará esa función que se ejecutará dentro de esta función inicial.
