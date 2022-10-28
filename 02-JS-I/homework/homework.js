@@ -18,7 +18,6 @@ const nuevaMultiplicacion = 10 * 4 === 40;
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === 1;
 
-
 // En los próximos 22 problemas, deberás completar la función.
 // Todo tu código irá dentro de las llaves de la función.
 // Asegúrate que usas "return" cuando la consola te lo pida.
@@ -29,7 +28,6 @@ function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
   return str;
-
 }
 
 function suma(x, y) {
@@ -37,28 +35,24 @@ function suma(x, y) {
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   return x + y;
-
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   return x - y;
-
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
   return x * y;
-
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
   return x / y;
-
 }
 
 function sonIguales(x, y) {
@@ -105,14 +99,12 @@ function mayorQueCincuenta(num) {
   } else {
     return false;
   }
-
 }
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
   return x % y;
-
 }
 
 function esPar(num) {
@@ -168,7 +160,6 @@ function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
   return Math.ceil(num);
-
 }
 
 function numeroRandom() {
@@ -257,7 +248,7 @@ function esVocal(letra) {
     } else {
       return "Dato incorrecto";
     }
-  } else {
+  } else { 
     return "Dato incorrecto";
   }
 }
